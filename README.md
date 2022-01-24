@@ -1,4 +1,4 @@
-This repository is meant to contain logs and references to the assignment work for [Centauri React Native Cohort by Real Dev Squad](https://github.com/Real-Dev-Squad/Centauri-React-Native-Cohort).
+This repository is meant to contain logs and references to the assignment work that I've done for [Centauri React Native Cohort by Real Dev Squad](https://github.com/Real-Dev-Squad/Centauri-React-Native-Cohort).
 
 Projects
 - [Centauri Tweeter](https://github.com/lyqht/centauri-tweeter): Exercises 1-3

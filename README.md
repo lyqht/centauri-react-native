@@ -5,6 +5,7 @@ Projects
   - [Snack](https://snack.expo.dev/@lyqht/tweeter)
 - [Sencha Teahouse](https://github.com/lyqht/sencha-teahouse): Exercises 4
   - [Snack](https://snack.expo.dev/@lyqht/sencha-teahouse-v2)
+
 Exercises
 - [Exercise 1: Characters Remaining](#exercise-1-characters-remaining)
   - [Task](#task)

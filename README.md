@@ -1,8 +1,10 @@
 This repository is meant to contain logs and references to the assignment work that I've done for [Centauri React Native Cohort by Real Dev Squad](https://github.com/Real-Dev-Squad/Centauri-React-Native-Cohort).
 
 Projects
-- [Centauri Tweeter](https://github.com/lyqht/centauri-tweeter): Exercises 1-3
-
+- [Tweeter](https://github.com/lyqht/centauri-tweeter): Exercises 1-3
+  - [Snack](https://snack.expo.dev/@lyqht/tweeter)
+- [Sencha Teahouse](https://github.com/lyqht/sencha-teahouse): Exercises 4
+  - [Snack](https://snack.expo.dev/@lyqht/sencha-teahouse-v2)
 Exercises
 - [Exercise 1: Characters Remaining](#exercise-1-characters-remaining)
   - [Task](#task)
@@ -16,6 +18,12 @@ Exercises
   - [Task](#task-2)
   - [Demo](#demo-2)
   - [Lessons Learnt](#lessons-learnt-2)
+- [Exercise 4: Cart](#exercise-4-cart)
+  - [Task](#task-3)
+  - [Thinking Process](#thinking-process)
+  - [Demo](#demo-3)
+  - [Lessons Learnt](#lessons-learnt-3)
+
 
 ---
 
@@ -65,7 +73,7 @@ Some extra things I tried and learnt about:
 
 Upon rendering a list of emails in an inbox, swipe left to delete an email from the list.
 
-Additional
+**Additional Task**
 How can you add an "Undo" feature?
 
 
@@ -81,6 +89,29 @@ https://user-images.githubusercontent.com/35736525/149978363-8b2c1ee8-ee81-45f8-
 
 Ideally, I would want to replicate how Grab does the "undo order" UX with a proper countdown. 
 
+## Exercise 4: Cart
+
+### Task
+
+Create the two screens with the little information you can understand from these screens. (Missing Requirements on purpose). Feel free to make it look pretty.
+
+**New Requirement**
+
+You cannot pass data as argument when navigating to the second screen.
+
+- navigation.navigate('CheckoutSummary', { numItems }) ❌
+- navigation.navigate('CheckoutSummary') ✅
+
+### Thinking Process
+
+[Figma with comments on my initial thoughts on this task](https://www.figma.com/file/B9xFGETTLUbDy28AXSiS4n/Cart-Assignment?node-id=0%3A1)
+
+### Demo
 
 
+### Lessons Learnt
 
+- Learnt how to use GraphCMS to add items via their interface & retrieve items using GraphQL in RN app.
+- Learnt how to use Zustand for state management and Zustand Flipper plugin for debugging.
+- Learnt how to use Expo Cli to make a bare RN project expo-compatible
+- It's pretty interesting how I didn't think about passing the number of items using the navigation props at all from the beginning, so I just completed the additional task by chance. 

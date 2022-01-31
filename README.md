@@ -109,6 +109,8 @@ You cannot pass data as argument when navigating to the second screen.
 
 ### Demo
 
+https://user-images.githubusercontent.com/35736525/151750291-a4566e2e-ed7f-4ed2-9db6-baedc5082667.mp4
+
 
 ### Lessons Learnt
 

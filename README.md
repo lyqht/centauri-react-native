@@ -94,6 +94,9 @@ Ideally, I would want to replicate how Grab does the "undo order" UX with a prop
 
 ### Task
 
+
+> Source of instructions can be found [here](https://github.com/Real-Dev-Squad/Centauri-React-Native-Cohort/blob/main/react-native/action-items/2022-01/2022-01-22.md).
+
 Create the two screens with the little information you can understand from these screens. (Missing Requirements on purpose). Feel free to make it look pretty.
 
 **New Requirement**
